@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 学习笔记 https://www.jianshu.com/p/671a8bcaac24
+#操作命令示例 python3 test.py -i inputfile -o outputfile
+
 import sys, getopt
 
 def main(argv):
